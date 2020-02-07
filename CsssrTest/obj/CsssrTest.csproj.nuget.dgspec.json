@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Study\\csssr\\CsssrTest\\CsssrTest\\CsssrTest.csproj": {}
+    "M:\\FirstRepos\\CsssrTest\\CsssrTest.csproj": {}
   },
   "projects": {
-    "M:\\Study\\csssr\\CsssrTest\\CsssrTest\\CsssrTest.csproj": {
+    "M:\\FirstRepos\\CsssrTest\\CsssrTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Study\\csssr\\CsssrTest\\CsssrTest\\CsssrTest.csproj",
+        "projectUniqueName": "M:\\FirstRepos\\CsssrTest\\CsssrTest.csproj",
         "projectName": "CsssrTest",
-        "projectPath": "M:\\Study\\csssr\\CsssrTest\\CsssrTest\\CsssrTest.csproj",
+        "projectPath": "M:\\FirstRepos\\CsssrTest\\CsssrTest.csproj",
         "packagesPath": "C:\\Users\\aandreeva\\.nuget\\packages\\",
-        "outputPath": "M:\\Study\\csssr\\CsssrTest\\CsssrTest\\obj\\",
+        "outputPath": "M:\\FirstRepos\\CsssrTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
